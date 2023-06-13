@@ -1,7 +1,7 @@
 <h1 align="center"> DevLinks</h1>
 
 <p align="center">
-Programa exclusivo e gratuito, promovido pel rocketseat para ensino de tecnologias Web.
+Programa exclusivo e gratuito, promovido pelo rocketseat para ensino de tecnologias WEB.
 </p>
 
 <p align="center">
@@ -12,13 +12,13 @@ Programa exclusivo e gratuito, promovido pel rocketseat para ensino de tecnologi
 </p>
 
 <p align="center">
-  <img alt="License" scr="https://img.shields.io/static/v1?label=license&mesage=MIT&color=49AA26&labelcolor=000000">
-  </P>
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</P>
 
   <br>
 
 <p align="center">
-  <img alt="Projeto DevLinks" scr="./github/preview.png" width="100%">
+  <img alt="Projeto DevLinks" src="./github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias 
